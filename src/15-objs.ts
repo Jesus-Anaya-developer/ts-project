@@ -21,7 +21,7 @@
   console.log(products);
 
   addProduct({
-    title:"pro1",
+    title:"pro2",
     createdAt:new Date(1993,1,1),
     stock:12,
     size:"XL"
